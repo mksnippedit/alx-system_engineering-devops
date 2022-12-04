@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugoa=ollen hello
+chmod ugoa=olleh hello
