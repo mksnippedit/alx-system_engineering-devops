@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -RlAad | wc -l
+find . -type d -path'./*' -print | wc -l
